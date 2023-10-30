@@ -13,7 +13,11 @@ Of course I don't have experience in software development, but I'm more than mot
 ## Where can you find me?
 - ### LinkedIn:
 - You can see all my professional progression _(in accounting area)_ just by clicking here: [Jesica's LinkedIn](https://www.linkedin.com/in/jesica-g-93243b222/)
-- You can email me at [Jesica's Email](koinoyokanuwu@gmail.com)
+- You can email me at koinoyokanuwu@gmail.com
 
 
+![W1ph](https://github.com/koinoyokanuwu/koinoyokanuwu/assets/146347705/e8d1ae24-6301-42e0-9d81-8c14fba8ce15)
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset=''https://github.com/koinoyokanuwu/koinoyokanuwu/assets/146347705/e8d1ae24-6301-42e0-9d81-8c14fba8ce15''>
+</picture>
