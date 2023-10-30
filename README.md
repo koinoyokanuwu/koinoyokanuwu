@@ -11,7 +11,7 @@ I studied a technical carrer in accounting, but now, after three years dedicated
 Of course I don't have experience in software development, but I'm more than motivated to start from zero.
 
 ## Where can you find me?
-- ### LinkedIn:
+
 - You can see all my professional progression _(in accounting area)_ just by clicking here: [Jesica's LinkedIn](https://www.linkedin.com/in/jesica-g-93243b222/)
 - You can email me at koinoyokanuwu@gmail.com
 
